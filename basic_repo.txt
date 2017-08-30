@@ -1,0 +1,5 @@
+I created a remote repository on GitHub then created a local repository.
+After initializing those two I created a this text document describing my steps in the local repository.
+To prepare my document for the 'staging area' I had git search for any changes to this document
+by using the gid add command then I committed and left a message with the 'git commit -m' command.
+Afterward, I pushed my changes up to the remote repository. 
